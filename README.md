@@ -1,22 +1,76 @@
-# 💫 About Me:<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-🌱 I’m currently learning HTML,Github<br><br>💬 Ask me about HTML<br><br>📫 How to reach me kpranit0134@gmail.com<br>
+# Hi 👋, I'm Pranit Kamble  
 
-
-🏸 Blog project - https://beamish-caramel-166b3e.netlify.app/
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pranit-Kamble&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pranit-Kamble&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranit-Kamble&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+🚀 **Full Stack Developer | Java • Spring Boot • React • MERN**  
+🎓 **PG-DAC Graduate (CDAC)**  
+📍 India  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pranit-Kamble&icon=0&color=0)](https://visitcount.itsvg.in)
- 
+
+## 👨‍💻 About Me  
+
+I’m a passionate **Full Stack Developer** with a strong foundation in **Java, Spring Boot, React, and Database Technologies**.  
+I enjoy building real-world web applications, learning new technologies, and continuously improving my problem-solving skills.
+
+- 🔭 Currently focusing on **Java Backend & Full Stack Development**
+- 🌱 Learning advanced **Spring Boot, REST APIs, and System Design**
+- 💡 Interested in scalable web applications & clean architecture
+- 🎯 Goal: Become a strong **Software Developer / Java Developer**
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Backend  
+- Java, Spring Boot  
+- RESTful APIs  
+- Hibernate / JPA  
+
+### 🌐 Frontend  
+- HTML5, CSS3, JavaScript  
+- React.js  
+- Responsive UI Design  
+
+### 🗄️ Databases  
+- MySQL  
+- MongoDB  
+
+### ⚙️ Tools & Technologies  
+- Git & GitHub  
+- Postman  
+- Linux (Basic Commands)  
+- Docker (Basics)  
+
+---
+
+## 📂 Projects  
+
+### 🛒 E-Commerce Web Application  
+- MERN Stack based full-featured e-commerce website  
+- User Authentication (Login/Register)  
+- Product Listing & Cart Management  
+- MongoDB Atlas Integration  
+
+### 🔐 Authentication Module  
+- Modern Login & Register UI using React  
+- Secure form handling and validations  
+
+*(More projects coming soon 🚀)*  
+
+---
+
+## 📈 GitHub Stats  
+
+![Pranit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me  
+
+- 💼 LinkedIn: *(Add your LinkedIn link here)*  
+- 📧 Email: *(Add your professional email)*  
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
