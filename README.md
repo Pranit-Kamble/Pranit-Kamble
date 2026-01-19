@@ -68,8 +68,8 @@ I enjoy building real-world web applications, learning new technologies, and con
 
 ## 🤝 Connect With Me  
 
-- 💼 LinkedIn: *(Add your LinkedIn link here)*  
-- 📧 Email: *(Add your professional email)*  
+- 💼 LinkedIn: https://www.linkedin.com/in/pranit-kamble-pk/  
+- 📧 Email: kpranit0134@gmail.com
 
 ---
 
